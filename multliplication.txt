@@ -1,0 +1,9 @@
+3 start
+
+stop:9
+m:2 n:9 r:0 n1:0 one:1
+
+start:1 r m r 
+     1 n1 one n1
+     4 n1 n stop
+     3 start
