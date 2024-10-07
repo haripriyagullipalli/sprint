@@ -14,4 +14,4 @@ loop:4 left1:0 right1:0 inr
 inr:1 left one left
 2 right one right 
 3 Se
-e1:1 e2:1 e3:2 e4:1 e5:1
+e1:1 e2:1 e3:2 e4:1 e5:5
