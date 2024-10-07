@@ -1,0 +1,19 @@
+3 5 n:100 r:0 3 start
+n1:0 zero:0 stop:9
+one:1 q:0 sum:0 count:0 ten:10 res:0
+start:4 n r stop
+7 3 n1
+cmp:5 zero n1 op
+4 res n cpy1
+3 stop
+cpy1:7 one r
+9
+op:5 n1 ten add
+2 n1 ten n1
+1 q one q
+3 op
+add:1 n1 r r
+7 q n1
+7 zero count
+7 zero q
+3 cmp
